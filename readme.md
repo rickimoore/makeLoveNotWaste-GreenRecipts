@@ -10,6 +10,8 @@
 ## Make Love Not Waste
 Make Love, Not Waste is an emerging event aimed at people who are committed to sustainable transformation - changes in patterns of production and consumption and innovation for sustainability. It is an event open to individuals who want to bring new ideas (and even prototypes!) To the People's Design Lab * campaign. I joined this event and was placed into a group tasked to design a way to help fight waste. Our group came up with a paperless transaction solution, allowing small businesses and customers to track transactions electronically. We were given one afternoon to develop the idea and another to create a working product. Not all projects were web based, however since I am a programmer I offered my technical skills to create this quick MVP for what we call Green-Reciepts.
 
+https://makelovenotwaste.confetti.events/
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
